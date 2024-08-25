@@ -1,4 +1,4 @@
-## Week 4 Assignment and Technical Article for the Data Science and Analytics Boot Camps
+## Week 4 Assignment for the Data Science and Analytics Boot Camps
 
 1). Write a Python program to check whether a string is a palindrome or not using a stack.
 PS: Pay attention to the specified data structure.
